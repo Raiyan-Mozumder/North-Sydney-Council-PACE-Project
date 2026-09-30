@@ -1,0 +1,10 @@
+# North Sydney Council project data must NOT be committed.
+data/
+*.pdf
+*.xls
+*.xlsx
+outputs/
+__pycache__/
+*.pyc
+.venv/
+.env

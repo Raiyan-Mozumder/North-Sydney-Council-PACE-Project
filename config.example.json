@@ -1,0 +1,7 @@
+{
+  "historical_pdf": "PATH/TO/4779_001.pdf",
+  "page_number": 1,
+  "biocollect_xlsx": "PATH/TO/Biocollect updated_02042026 - FINAL. IT - COPY for Ruth to adjust names.xlsx",
+  "biocollect_sheet": "Sheet1",
+  "output_dir": "outputs/run_001"
+}

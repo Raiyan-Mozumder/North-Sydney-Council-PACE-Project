@@ -1,0 +1,12 @@
+pymupdf>=1.24
+opencv-python>=4.9
+pytesseract>=0.3.10
+pandas>=2.2
+openpyxl>=3.1
+rapidfuzz>=3.9
+python-dateutil>=2.9
+Pillow>=10.0
+
+# Optional refined HTR stage for a later iteration:
+# transformers>=4.45
+# torch>=2.2
