@@ -1,1 +1,11 @@
 source_file,page,row,observer,suburb,area_no,area_name,date,species,species_code,veg_class,observation_type,microhabitat,count,confidence,nearest_street,comments,digitised_status,matched_record_id,review_notes
+4988_001.pdf,1,1,Anne Pickles,Neutral Bay,27,CREMORNE RES 052,25/04/2018,LORIKEET RAINBOW,0254,V3,O,2,2,5,,,Approved (human verified),6340fc7cc811-p1-r1,Manually verified against source scan
+4988_001.pdf,1,2,Anne Pickles,Neutral Bay,27,CREMORNE RES 052,25/04/2018,LAPWING MASKED,0133,V3,O,4,2,5,,,Approved (human verified),6340fc7cc811-p1-r2,Manually verified against source scan
+4988_001.pdf,1,3,Anne Pickles,Neutral Bay,30,CREMORNE RES 052 ZONE 3,25/04/2018,NOISY MINER,0634,V3,O,2,4,5,,,Approved (human verified),6340fc7cc811-p1-r3,Manually verified against source scan
+4988_001.pdf,1,4,Anne Pickles,Neutral Bay,30,CREMORNE RES 052 ZONE 3,25/04/2018,LORIKEET RAINBOW,0254,V2,O,2,4,5,,,Approved (human verified),6340fc7cc811-p1-r4,Manually verified against source scan
+4988_001.pdf,1,5,Anne Pickles,Neutral Bay,30,CREMORNE RES 052 ZONE 3,25/04/2018,BUTCHERBIRD GREY,0702,V2,0,2,2,5,,,Approved (human verified),6340fc7cc811-p1-r5,Manually verified against source scan
+4988_001.pdf,1,6,Anne Pickles,Neutral Bay,73,NEUTRAL BAY URBAN,25/04/2018,PIGEON CRESTED,0043,V3,O,1,1,5,,,Approved (human verified),6340fc7cc811-p1-r6,Manually verified against source scan
+4988_001.pdf,1,7,Anne Pickles,Neutral Bay,73,NEUTRAL BAY URBAN,25/04/2018,MAGPIE AUST,0705,V3,O,12,2,5,SHELLCOVE RD,,Approved (human verified),6340fc7cc811-p1-r7,Manually verified against source scan
+4988_001.pdf,1,8,Anne Pickles,Neutral Bay,73,NEUTRAL BAY URBAN,25/04/2018,LORIKEET RAINBOW,0254,V3,O,2,13,5,SHELLCOVE RD,,Approved (human verified),6340fc7cc811-p1-r8,Manually verified against source scan
+4988_001.pdf,1,9,Anne Pickles,Neutral Bay,73,NEUTRAL BAY URBAN,25/04/2018,MAGPIE AUST,0705,V3,O,4,2,5,,,Approved (human verified),6340fc7cc811-p1-r9,Manually verified against source scan
+4988_001.pdf,1,10,Anne Pickles,Neutral Bay,73,NEUTRAL BAY URBAN,28/08/2018,POSSUM RINGTAIL,1129,V3,O,2,1,5,HOLDSWORTH ST,IN ANGOPHORA,Approved (human verified),6340fc7cc811-p1-r10,Manually verified against source scan
